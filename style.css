@@ -82,7 +82,9 @@ body{
   /* Showcase */
   #showcase{
     min-height:400px;
-    background: url('computer3.png') no-repeat 0 -400px;
+    background: url('computer4.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
     text-align:center;
     color:#ffffff;
   }
